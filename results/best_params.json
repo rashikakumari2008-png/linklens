@@ -1,0 +1,14 @@
+{
+  "w_text": 0.2,
+  "w_id": 0.6,
+  "w_time": 0.2,
+  "tau": 90.0,
+  "type_phone": 0.8,
+  "type_upi": 0.9,
+  "type_url": 0.9,
+  "pen_cat": 0.3,
+  "pen_gap": 0.1,
+  "pen_common": 0.1,
+  "gap_days": 120,
+  "common_freq": 8
+}
